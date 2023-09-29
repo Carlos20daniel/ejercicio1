@@ -1,5 +1,9 @@
 body{
-    background-color:antiquewhite;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: -webkit-radial-gradient(#560e86, #0a0011);
 }
 .text1{
     color:blue;
