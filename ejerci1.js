@@ -1,1 +1,1 @@
-alert('HOLA MUNDO EN JS')
+alert('HOLA MUNDO')
